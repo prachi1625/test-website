@@ -1,0 +1,5 @@
+in git bash 
+cd Developer\ Main/
+
+git init
+git status
